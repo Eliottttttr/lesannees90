@@ -1,0 +1,26 @@
+body{
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    align-items: center;
+}
+header{
+    width: 150px;
+}
+section.entete {
+    background: url("../images/vv.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+/*menu navigation */
+nav.nav{
+    display: flex;
+    list-style: none;
+    background-color: brown;
+
+}
+nav.nav li {
+    color: aliceblue;
+}
+
